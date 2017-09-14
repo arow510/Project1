@@ -1,0 +1,19 @@
+h1, h2, h3 {
+	text-align: center;
+}
+
+
+
+.style2 {
+	width:40%;
+	min-width:500px;
+	margin-bottom:50px;
+	text-align: center;
+        margin:auto;
+}
+
+img {
+	display:block;
+	margin:auto;
+	width:50%;
+}

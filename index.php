@@ -16,7 +16,7 @@
 
 <h1> About Me </h1>
     <p>
-      Hello my name is Aaron Howard. I'm a Network Engineer out of the Sunnyvale, CA. Thank you for taking the time to vist my site.
+      Hello my name is Aaron Howard. I'm a Network Engineer out of Sunnyvale, CA. Thank you for taking the time to vist my site.
     </p>
 
    <h2>Random Quote</h2>
